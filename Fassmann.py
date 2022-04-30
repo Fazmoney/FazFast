@@ -1,4 +1,4 @@
-# Decompile by Mardis (Tools By Kapten-Kaizo)
+# Decompile by Mardis (Tools By Rydah TM)
 # Time Succes decompile : 2022-04-19 14:47:05.472438
 import os
 try:
@@ -122,7 +122,7 @@ def sarfraz():
     if _sarfraz___ in ('1', '01'):
         __xxx__().sarfrazx(id)
     if _sarfraz___ in ('2', '02'):
-        os.system('am start https://chat.whatsapp.com/LN7ZOPCOSD6CnbOfwfvbK5?text=' + tks')
+        os.system('xdg-open https://chat.whatsapp.com/LN7ZOPCOSD6CnbOfwfvbK5')
     if _sarfraz___ in ('3', '03'):
         pass
 
