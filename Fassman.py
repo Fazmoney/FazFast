@@ -55,14 +55,12 @@ logo = """
 #Main Board Jaha Sy Script Start Hota 
 def main():
     os.system('clear')
-    print logo
-    print ''
-    print ' [1].\x1b[1;96m Start Cloning'
-    print ' \033[0m[2].\x1b[1;96m Dumper '
-    print ' \033[0m[3].\x1b[1;96m Whatsapp '
-    print ' \033[0m[4].\x1b[1;96m FassForum '
-    print ' \033[0m[0].\x1b[1;96m Exit Tool \n'
-    print ''
+    print (logo)
+    print("[1].\x1b[1;96m Start Cloning")
+    print("\033[0m[2].\x1b[1;96m Dumper")
+    print("\033[0m[3].\x1b[1;96m Whatsapp")
+    print("\033[0m[4].\x1b[1;96m FassForum")
+    print("\033[0m[0].\x1b[1;96m Exit Tool \n")
     log_sel()
 
 
