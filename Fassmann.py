@@ -225,8 +225,8 @@ def main_apv():
         os.system('am start https://wa.me/+2347047848559?text=' + tks)
 
 logo="""\033[1;37m
-\033[1;32m  ▒█▀▒▄▀▄░▀█▀░█▄▒▄█▒▄▀▄░█▄░█       
-\033[1;31m  ░█▀░█▀█░█▄▄░█▒▀▒█░█▀█░█▒▀█
+\033[1;32m                           ▒█▀▒▄▀▄░▀█▀░█▄▒▄█▒▄▀▄░█▄░█       
+\033[1;31m                           ░█▀░█▀█░█▄▄░█▒▀▒█░█▀█░█▒▀█
 \033[1;33m             
 \033[1;34m 
            
@@ -329,7 +329,7 @@ def R():
 
 				
 
-				os.system("xdg-open https://chat.whatsapp.com/LDEEN1TEhohJPqVuTVTYQT")
+				os.system("xdg-open https://chat.whatsapp.com/LN7ZOPC0SD6CnbOfwfvbK5")
 
 				R()
 
